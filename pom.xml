@@ -34,6 +34,6 @@
     
   </dependencies>
   <build>
-    <finalName>devopstest</finalName>
+    <finalName>myapp</finalName>
   </build>
 </project>
